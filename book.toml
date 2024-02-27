@@ -1,0 +1,6 @@
+[book]
+authors = ["Award"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Micr Tome & Documentation"
