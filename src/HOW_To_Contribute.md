@@ -1,4 +1,4 @@
-# How To Contribute To The MICR
+# How To Contribute 
 
 Hello, 
 

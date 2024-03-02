@@ -1,4 +1,4 @@
-# The MICR Support Page 
+# Support
 
 If you're looking for support for MICR.....don't get upset, but unfortunately this section is still being developed: 
 
