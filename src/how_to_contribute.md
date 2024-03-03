@@ -117,13 +117,10 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 <b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
 
 
-
-
+## Suggesting Enhancements/Features 
 <div align="right"> 
 🥊
 </div>
-
-## Suggesting Enhancements/Features 
 
 This section guides you through submitting an enhancement suggestion for the MICR, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
