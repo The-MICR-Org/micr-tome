@@ -32,10 +32,11 @@ If you would rather read these documents on the Web Application you can read the
 
 </div>
 
-&nbsp;
+
 
 <a id="governance"></a>
 ## Leadership & Governance <div align="right"> 🛋️ </div>
+---
 
 
 <b><div align="right" >
@@ -46,20 +47,20 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 
 <b><div align="center">![CKM Logo!](https://github.com/Unearthlyglow/sveltego/blob/main/images/ckmlogo.png?raw=true)</div>
 
-&nbsp;
+
 
 <a id="what"></a>
 ## What is The MICR <div align="right"> 📙 </div>
+---
 
-&nbsp;
 
 <a id="why"></a>
 ## Why Create it? <div align="right"> ❤️‍🔥 </div>
-
-&nbsp;
+---
 
 <a id="roadmap"></a>
 ## Roadmap <div align="right"> 🗺️ </div>
+---
 
 <b><div align="right" >
 [Project Roadmap Document](./PROJECT_ROADMAP.md)
@@ -68,19 +69,18 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 At this time we do not have a traditional Roadmap.md that follows th
 For now you can visit the ISSUES tab and at the right click on ‘Milestones’ on the right. See below screenshots for assistance. 
 
-&nbsp;
-
 <a id="how"></a>
 ## How To Contribute <div align="right"> 🧑‍🤝‍🧑 </div>
+---
 
 <b><div align="right">
 [How To Contribute Document](./HOW_TO_CONTRIBUTE.md)
 </div></b>
 
-&nbsp;
 
 <a id="license"></a>
 ## License Info <div align="right"> ⚓ </div>
+---
 
 <b><div align="right">
 [License](./LICENSE)
