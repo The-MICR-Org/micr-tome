@@ -10,7 +10,7 @@ Hello,
 
 The following is a set of guidelines for contributing to **The MICR** open-source project.  These are mostly guidelines, and recommendations. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-&nbsp;
+ 
 
 <div align="center"> 
 	
@@ -38,23 +38,21 @@ The following is a set of guidelines for contributing to **The MICR** open-sourc
    
 </div>
 
-&nbsp;
+ 
 
+
+
+## Code of Conduct  
 <div align="right"> 
 🏗️ 
 </div>
 
-## Code of Conduct  
-
 This project and everyone participating in it is governed by the **[MICR Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to **[award@capsulescure.io](mailto:award@capsulescure.io)**.
 
-&nbsp;
-
+## TLDR I just have a question! 
 <div align="right"> 
 ❔
 </div>
-
-## TLDR I just have a question! 
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
@@ -62,13 +60,11 @@ You can submit a question through the discussions tab, or you can click **[here]
 
 **[!NEED]** I will also look into setting up an email address so people can have this option as well. 
 
-&nbsp;
-
+## How Can I Contribute? 
 <div align="right"> 
 🪄
 </div>
 
-## How Can I Contribute? 
 
 <div align="center">
 	
@@ -87,13 +83,10 @@ Before submitting a new **issue** be, sure to check the [Issues](https://github.
 
 Before submitting a new **pull request** be sure to check the [Pull Requests](https://github.com/Unearthlyglow/sveltego/pulls) tab to check to see if anyone else is working on something you're thinking of contributing. 
 
-&nbsp;
-
+## Reporting Bugs 
 <div align="right"> 
 🐛
 </div>
-
-## Reporting Bugs 
 
 This section guides you through submitting a bug report for  the MICR. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer:, and find related reports :mag_right:.
 
@@ -124,7 +117,7 @@ You can also retrieve the Bug Report template **[here](https://github.com/Uneart
 <b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-bug.png?raw=true)</div>
 
 
-&nbsp;
+
 
 <div align="right"> 
 🥊
@@ -148,23 +141,23 @@ You can also retrieve the Feature/Enhancement template **[here](https://github.c
 
 <b><div align="center">![Screenshot!](https://github.com/Unearthlyglow/sveltego/blob/main/images/screen-feature.png?raw=true)</div>
 
-&nbsp;
+ 
 
+
+
+## Local development 
 <div align="right"> 
 🧭
 </div>
 
-## Local development 
-
 **[!NEED || Local Dev Set-up FAQ]**
 
-&nbsp;
-
+ 
+## Pull Requests 
 <div align="right"> 
 🚂
 </div>
 
-## Pull Requests 
 
 The process described here has several goals:
 
@@ -180,13 +173,12 @@ Please follow these steps to have your contribution considered by the maintainer
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
-&nbsp;
-
+ 
+## Styleguides 
 <div align="right"> 
 🧑‍🎨
 </div>
 
-## Styleguides 
  
 ### Git Commit Messages 
 
@@ -214,26 +206,20 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
 
  --- 
 ### Documentation Styleguide  
-
-Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
-
-&nbsp;
-
 <div align="right"> 
 📔
 </div>
+
+Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 ## Additional Notes
 
 ### Issue and Pull Request Labels
 **[!NEED]**
 
-&nbsp;
-
+## Thank you to 'Atom'
 <div align="right"> 
 🌞
 </div>
-
-## Thank you to 'Atom'
 
 Thank you to all the contributors who put work into the  'Atom'  Contribution guide. I appreciate all the hard work that was put into it. The MICR will be another entity that will carry on your torch respectfully. 
