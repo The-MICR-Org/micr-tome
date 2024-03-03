@@ -213,6 +213,10 @@ Let's do our best to follow the **[Uber Uber Go Style Guide](https://github.com/
 Documentation for the project  will use [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 
 ## Additional Notes
+<div align="right"> 
+🧆
+</div>
+
 
 ### Issue and Pull Request Labels
 **[!NEED]**
