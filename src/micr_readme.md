@@ -29,16 +29,13 @@ If you have any immediate questions you would like to ask and can't find a resou
 
 &nbsp;
 
-- If you would rather read these documents in a more traditional "book"(MD Book) style, you can read the same documents on this repo over [here](https://the-micr-org.github.io/micr-tome/)
-   
-
+- If you would rather read these documents on the official GitHub repo, you can find them [here](https://github.com/Unearthlyglow/micr-ccm/tree/main/docs) 
 
 <!-- - If you would like to read the documentation on the web application, you can visit this [link](!NEED) 
 
 &nbsp;
 
 -->
-
 
 - If you are interested in seeing the 'notepad'(Notion document) I use to sketch out ideas for this project, you can visit [here](https://www.notion.so/capsuleskill/The-Musical-Instrument-Compendium-Registry-The-MICR-WIP-Notes-4649363a91674b16b90835e422cfd8b3)
 
