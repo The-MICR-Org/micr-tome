@@ -1,10 +1,4 @@
- <b><div align="center"></b> [ReadMe](./README.md) · [Governance](./GOVERNANCE.md) · [Project Roadmap](https://github.com/Unearthlyglow/micr-ccm/milestones) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [How to Contribute](./HOW_TO_CONTRIBUTE.md) · [MICR-CCM Manifesto](./MICR_MANIFESTO.md) · [Support Page](./SUPPORT.MD) · [Software License](/LICENSE) </div>
-
- ---
-
 # Contributors 
-
-
 
 This page is dedicated to all of the people who have contributed to the success of this project.
 
