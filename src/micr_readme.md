@@ -48,7 +48,7 @@ If you have any immediate questions you would like to ask and can't find a resou
 
 
 <b><div align="right" >
-[Governance Document](./GOVERNANCE.md)
+[Governance Document](https://the-micr-org.github.io/micr-tome/governance.html)
 </div></b>
 
 At this time since it’s just me(Award Malisi), I will be going with the ABDFL(Alleged-Benevolent Dictator For Life) for the time being. If people join up with me on this project, I’ll definitely entertain the idea of a different leadership structure. I am more along the lines of someone who believes one should be skillful in leading and following.
@@ -63,7 +63,7 @@ At this time since it’s just me(Award Malisi), I will be going with the ABDFL(
 ## What is The MICR & Why was it created? <div align="right"> ❤️‍🔥 </div>
 
 <b><div align="right" >
-[MICR Manifesto](./MICR_MANIFESTO.md)
+[MICR Manifesto](https://the-micr-org.github.io/micr-tome/manifesto.html)
 </div></b>
 
 ### <ins> The What: </ins>
@@ -123,10 +123,10 @@ Examples of where one can see themselves contributing:
 ## License Info <div align="right"> ⚓ </div>
 
 <b><div align="right">
-[License](./LICENSE)
+[License](https://the-micr-org.github.io/micr-tome/license.html)
 </div></b>
 
- This project is licensed under the GNU GENERAL PUBLIC LICENSE(version 3), you can review it [here](./LICENSE) I will update this section in the near future as to why I chose the GNU GPLv3 license. 
+ This project is licensed under the GNU GENERAL PUBLIC LICENSE(version 3), you can review it [here](https://the-micr-org.github.io/micr-tome/license.html) I will update this section in the near future as to why I chose the GNU GPLv3 license. 
 
  <div align="left"> 🔹 </div>
 
@@ -134,7 +134,7 @@ Examples of where one can see themselves contributing:
 ## The MICR Support Page <div align="right"> 🦆 </div>
 
 <b><div align="right">
-[Support Doc](./SUPPORT.md)
+[Support Doc](https://the-micr-org.github.io/micr-tome/support.html)
 </div></b>
 
 Please send any emails you have regarding security vulnerabilities to Micr.Support@capsulescure.io. Feel free to also use this email address if you cannot find a resource to answer your immediate question. 
