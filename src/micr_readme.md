@@ -25,7 +25,7 @@ Hello, I hope you're well.
 
 At this time a link to the web application has not been established because I need to work with my close community to establish a proper baseline for certain functions mainly around security(people's information) and authentication of instruments. 
 
-If you have any immediate questions you would like to ask and can't find a resource on this repo to help you, feel free to send an email to Micr.Support@capsulescure.io. Response time is around 24-48 hours. 
+If you have any immediate questions you would like to ask and can't find a resource on this repo to help you, feel free to send an email to 'Micr.Support@capsulescure.io'. Response time is around 24-48 hours. 
 
 &nbsp;
 
@@ -137,7 +137,8 @@ Examples of where one can see themselves contributing:
 [Support Doc](https://the-micr-org.github.io/micr-tome/support.html)
 </div></b>
 
-Please send any emails you have regarding security vulnerabilities to Micr.Support@capsulescure.io. Feel free to also use this email address if you cannot find a resource to answer your immediate question. 
+Please send any emails you have regarding security vulnerabilities to 
+'Micr.Support@capsulescure.io'. Feel free to also use this email address if you cannot find a resource to answer your immediate question. 
 
 
 &nbsp;
